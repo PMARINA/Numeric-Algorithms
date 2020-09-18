@@ -1,0 +1,11 @@
+*
+/**/
+
+!.gitignore
+!Makefile
+!README.md
+!main.h
+!main.cc
+!gcd.cc
+!lcm.cc
+!power_mod.cc
