@@ -29,6 +29,6 @@ int main(int argc, char *argv[]) {
 
 ## Work Distribution
 
-- *** will do GCD: `uint64_t gcd(uint64_t a, uint64_t b)`
-- *** will do LCM: `uint64_t lcm(uint64_t a, uint64_t b)`
-- *** will do PowerMod: `uint64_t power_mod(uint64_t a, uint64_t b, uint64_t r)`
+- Joey will do GCD: `uint64_t gcd(uint64_t a, uint64_t b)`
+- Pridhvi will do LCM: `uint64_t lcm(uint64_t a, uint64_t b)`
+- Nick will do PowerMod: `uint64_t power_mod(uint64_t a, uint64_t b, uint64_t r)`
